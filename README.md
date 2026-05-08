@@ -4,7 +4,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
 ![Twilio](https://img.shields.io/badge/Twilio-SMS-green)
-![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
 
 ---
 
