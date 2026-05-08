@@ -7,6 +7,10 @@
 
 
 ---
+### 🖥️ Streamlit Dashboard
+
+![Dashboard UI](Dashboard.png)
+
 
 # 📌 Project Overview
 
