@@ -162,9 +162,7 @@ Our hybrid architecture solves these problems by:
 ├── sms_alerts.py
 ├── phone_mapping.csv
 ├── requirements.txt
-├── EUROPEAN & INDIAN DATASET TRAINING.ipynb
-├── models/
-├── logs/
+├── saved/
 ├── images/
 └── README.md
 ```
@@ -310,15 +308,55 @@ Custom banking transaction dataset supporting:
 
 ---
 
-# 📈 Model Performance
+# ☁️ Model Training Environment
+use this 
+EUROPEAN & INDIAN DATASET TRAINING.ipynb
 
-| Metric | Score |
-|--------|-------|
-| Accuracy | 98% |
-| Precision | 95% |
-| Recall | 92% |
-| ROC-AUC | 0.98 |
+The deep learning model was trained using **Google Colab** with GPU acceleration for faster computation and efficient training.
 
+### Training Environment
+
+- Platform: Google Colab
+- Framework: TensorFlow / Keras
+- GPU Support: NVIDIA Tesla T4
+- Python Version: 3.10
+- Model Storage: Google Drive
+
+### Google Drive Saved Model Path
+
+```python
+/content/drive/MyDrive/Fraud_Detection_Project/models/
+```
+
+### Training Notebook
+
+The complete model training, preprocessing, evaluation, and visualization code is available in:
+
+```text
+EUROPEAN & INDIAN DATASET TRAINING.ipynb
+```
+
+### Saved Files
+
+The following files are saved in Google Drive after training:
+
+```text
+models/
+├── hybrid_cnn_bilstm_attention_model.h5
+├── tokenizer.pkl
+├── scaler.pkl
+└── label_encoder.pkl
+```
+
+This notebook includes:
+
+- Data preprocessing
+- Feature engineering
+- CNN–BiLSTM–Attention model implementation
+- Focal Loss integration
+- Model evaluation
+- SHAP explainability
+- Performance visualization
 ---
 
 # 📉 Dashboard Features
