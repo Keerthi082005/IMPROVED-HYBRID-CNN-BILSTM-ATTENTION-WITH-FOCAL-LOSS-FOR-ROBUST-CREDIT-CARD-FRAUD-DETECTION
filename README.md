@@ -7,10 +7,16 @@
 
 
 ---
-# 🎥 Live Project Demonstration
+# 🎥 Live Demo
 
-<video src="video/demo.mp4" controls autoplay muted width="100%"></video>
-
+<video 
+    src="demo video(1).mp4"
+    controls
+    autoplay
+    muted
+    loop
+    width="100%">
+</video>
 
 # 📌 Project Overview
 
