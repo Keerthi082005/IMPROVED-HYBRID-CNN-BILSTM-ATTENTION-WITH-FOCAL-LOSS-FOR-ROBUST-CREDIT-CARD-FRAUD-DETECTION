@@ -9,7 +9,7 @@
 ---
 # 🎥 Live Demo
 
-[▶️ Watch Demo](./demo_video.mp4)
+[▶️ Click Here to Watch Demo](demo video.mp4)
 
 # 📌 Project Overview
 
