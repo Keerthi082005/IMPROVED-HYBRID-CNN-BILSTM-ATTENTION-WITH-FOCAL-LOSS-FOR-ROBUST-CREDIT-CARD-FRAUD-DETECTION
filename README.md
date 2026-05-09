@@ -7,9 +7,13 @@
 
 
 ---
-# 🎥 Live Demo
+# 📸 Dashboard Preview
 
-[▶️ Click Here to Watch Demo](https://github.com/Keerthi082005/IMPROVED-HYBRID-CNN-BILSTM-ATTENTION-WITH-FOCAL-LOSS-FOR-ROBUST-CREDIT-CARD-FRAUD-DETECTION/blob/main/demo%20video.mp4)
+![Dashboard UI](dashboard.png)
+
+# 🎥 Project Demonstration
+
+<video src="demo.mp4" controls width="100%"></video>
 
 # 📌 Project Overview
 
