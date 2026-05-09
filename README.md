@@ -9,14 +9,7 @@
 ---
 # 🎥 Live Demo
 
-<video 
-    src="./demo video (1).mp4"
-    controls
-    autoplay
-    muted
-    loop
-    width="100%">
-</video>
+[▶️ Watch Demo](./demo_video.mp4)
 
 # 📌 Project Overview
 
