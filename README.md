@@ -7,14 +7,18 @@
 
 
 ---
+
 # 📸 Dashboard Preview
 
 ![Dashboard UI](Dashboard.png)
 
+---
 
 🔽 Download Demo Video:
 
 🔽 Click “View raw” on the demo video file path to download and watch the complete project demonstration.
+
+---
 
 # 📌 Project Overview
 
