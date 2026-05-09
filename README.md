@@ -214,7 +214,6 @@ This notebook includes:
 ├── phone_mapping.csv
 ├── requirements.txt
 ├── saved/
-├── images/
 └── README.md
 ```
 
