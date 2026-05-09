@@ -208,12 +208,13 @@ This notebook includes:
 # 📁 Project Structure in vs code side
 
 ```text
-.
+project/
 ├── app.py
 ├── sms_alerts.py
 ├── phone_mapping.csv
 ├── requirements.txt
 ├── saved/
+├── .env
 └── README.md
 ```
 
@@ -259,7 +260,7 @@ Create a `.env` file:
 ```env
 TWILIO_ACCOUNT_SID=your_account_sid
 TWILIO_AUTH_TOKEN=your_auth_token
-TWILIO_PHONE=+1234567890
+TWILIO_PHONE=Twilio_phone_number (example = +1234567890)
 ```
 
 ---
