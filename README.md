@@ -7,9 +7,9 @@
 
 
 ---
-### 🖥️ Streamlit Dashboard
+# 🎥 Demo Video
 
-![Dashboard UI](Dashboard.png)
+[▶️ Watch Demo Video](video/demo.mp4)
 
 
 # 📌 Project Overview
