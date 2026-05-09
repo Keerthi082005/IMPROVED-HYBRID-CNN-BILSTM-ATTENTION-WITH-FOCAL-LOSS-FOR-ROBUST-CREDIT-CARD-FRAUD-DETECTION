@@ -7,9 +7,9 @@
 
 
 ---
-# 🎥 Demo Video
+# 🎥 Live Project Demonstration
 
-[▶️ Watch Demo Video](video/demo.mp4)
+<video src="video/demo.mp4" controls autoplay muted width="100%"></video>
 
 
 # 📌 Project Overview
