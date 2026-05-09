@@ -50,15 +50,10 @@ Department of Artificial Intelligence and Data Science
 
 ## 👥 Team Members
 
-- **Devalekka P** – 920222243012
-- **Keerthi A** – 920222243023
-- **Sahana M** – 920222243043
-
-## 👨‍🏫 Project Guide
-
-**Dr. R. Punithavathi**  
-Head of Department (AI & DS)
-
+- **Devalekka P** 
+- **Keerthi A**
+- **Sahana M**
+  
 ---
 
 # 📖 Abstract
